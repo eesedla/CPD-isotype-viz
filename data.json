@@ -1,0 +1,26 @@
+[
+  {
+    "label": "1 charge",
+    "officers": 617
+  },
+  {
+    "label": "2 charges",
+    "officers": 242
+  },
+  {
+    "label": "3 charges",
+    "officers": 72
+  },
+  {
+    "label": "4 charges",
+    "officers": 44
+  },
+  {
+    "label": "5 charges",
+    "officers": 19
+  },
+  {
+    "label": "6 or more charges",
+    "officers": 7
+  }
+]
