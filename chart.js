@@ -1,14 +1,14 @@
 const SCALE = 5;
  
 const PERSON_SVG = `<svg class="icon-person" viewBox="0 0 20 36" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="10" cy="5" r="4.5" fill="#c0392b"/>
-  <path d="M4 35 L4 16 Q4 10 10 10 Q16 10 16 16 L16 35 Z" fill="#c0392b"/>
+  <circle cx="10" cy="5" r="4.5" fill="#D64d4d"/>
+  <path d="M4 35 L4 16 Q4 10 10 10 Q16 10 16 16 L16 35 Z" fill="#D64d4d"/>
 </svg>`;
- 
+
 function personFaded(opacity) {
   return `<svg class="icon-person" viewBox="0 0 20 36" xmlns="http://www.w3.org/2000/svg" style="opacity:${opacity}">
-  <circle cx="10" cy="5" r="4.5" fill="#c0392b"/>
-  <path d="M4 35 L4 16 Q4 10 10 10 Q16 10 16 16 L16 35 Z" fill="#c0392b"/>
+  <circle cx="10" cy="5" r="4.5" fill="#D64d4d"/>
+  <path d="M4 35 L4 16 Q4 10 10 10 Q16 10 16 16 L16 35 Z" fill="#D64d4d"/>
 </svg>`;
 }
  
