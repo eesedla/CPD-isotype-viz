@@ -1,26 +1,26 @@
 [
   {
-    "label": "1 charge",
+    "label": "1 hearing",
     "officers": 617
   },
   {
-    "label": "2 charges",
+    "label": "2 hearings",
     "officers": 242
   },
   {
-    "label": "3 charges",
+    "label": "3 hearings",
     "officers": 72
   },
   {
-    "label": "4 charges",
+    "label": "4 hearings",
     "officers": 44
   },
   {
-    "label": "5 charges",
+    "label": "5 hearings",
     "officers": 19
   },
   {
-    "label": "6 or more charges",
+    "label": "6 or more hearings",
     "officers": 7
   }
 ]
