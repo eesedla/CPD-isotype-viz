@@ -16,7 +16,7 @@ function buildChart(data) {
         '<div class="bar-track">' +
           '<div class="bar" style="width:' + pct + '%"></div>' +
         '</div>' +
-        '<span class="bar-value">' + row.officers.toLocaleString() + '</span>' +
+        '<span class="bar-value">' + row.officers.toLocaleString() + ' officers</span>' +
       '</div>';
 
     chart.appendChild(rowEl);
