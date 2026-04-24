@@ -64,6 +64,7 @@ body {
   display: flex;
   align-items: center;
   margin-bottom: 12px;
+  padding-top: 22px;
   gap: 12px;
 }
 
@@ -84,7 +85,6 @@ body {
   flex: 1;
   display: flex;
   align-items: center;
-  gap: 8px;
   min-width: 0;
 }
 
@@ -97,10 +97,17 @@ body {
   height: 28px;
   background: #D64d4d;
   min-width: 2px;
+  position: relative;
+  overflow: visible;
+  flex-shrink: 0;
 }
 
 .bar-value {
-  font-size: 14px;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  margin-bottom: 3px;
+  font-size: 13px;
   font-weight: 600;
   color: #404F54;
   white-space: nowrap;
