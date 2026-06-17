@@ -1,7 +1,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
-  background: #f4f0e6;
+  background: transparent;
   font-family: 'Roboto Condensed', 'Arial Narrow', sans-serif;
   display: flex;
   align-items: flex-start;
